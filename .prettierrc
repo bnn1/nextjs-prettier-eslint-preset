@@ -1,0 +1,13 @@
+{
+    "tabWidth": 2,
+    "arrowParens": "always",
+    "editorconfig": true,
+    "endOfLine": "lf",
+    "jsxSingleQuote": false,
+    "printWidth": 100,
+    "semi": true,
+    "singleQuote": true,
+    "trailingComma": "es5",
+    "singleAttributePerLine": true,
+    "proseWrap": "always"
+}
